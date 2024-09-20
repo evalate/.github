@@ -1,5 +1,5 @@
 <div align="center" style="display:grid;place-items:center;">
-  <img src="evalate-lang-banner.png" height=350px width=800px>
+  <img src="../evalate-lang-banner.png" height=350px width=800px>
 </div>
 
 # Evalate Programming Language
